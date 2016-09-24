@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-06 07:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin.py:97
+#, fuzzy
+msgid "Default Content"
+msgstr "Výchozí Obsah"
+
+#: admin.py:111
+msgid "Description"
+msgstr "Popis"
+
+#: admin.py:117
+msgid "Languages"
+msgstr "Jazyky"
+
+#: fields.py:11
+msgid "Comma-separated emails"
+msgstr "Emaily oddělené tečkou"
+
+#: fields.py:20
+msgid "Only comma separated emails are allowed."
+msgstr "Jsou povoleny jen emaily oddělené tečkou"
+
+#: models.py:38
+msgid "low"
+msgstr "nízká"
+
+#: models.py:38
+msgid "medium"
+msgstr "střední"
+
+#: models.py:39
+msgid "high"
+msgstr "vysoká"
+
+#: models.py:39
+msgid "now"
+msgstr "teď"
+
+#: models.py:40 models.py:169
+msgid "sent"
+msgstr "odeslat"
+
+#: models.py:40 models.py:169
+msgid "failed"
+msgstr "neúspěšný"
+
+#: models.py:41
+msgid "queued"
+msgstr "ve frontě"
+
+#: models.py:44
+msgid "Email From"
+msgstr "Email Od"
+
+#: models.py:45
+msgid "Email To"
+msgstr "Email Pro"
+
+#: models.py:46
+msgid "Cc"
+msgstr "Kopie"
+
+#: models.py:47
+msgid "Bcc"
+msgstr "Skrytá Kopie"
+
+#: models.py:48 models.py:194
+msgid "Subject"
+msgstr "Předmět"
+
+#: models.py:49
+msgid "Message"
+msgstr "Zpráva"
+
+#: models.py:50
+msgid "HTML Message"
+msgstr "HTML Zpráva"
+
+#: models.py:188
+msgid "e.g: 'welcome_email'"
+msgstr "např. 'welcome_email'"
+
+#: models.py:190
+msgid "Description of this template."
+msgstr "Popis této šablony"
+
+#: models.py:196
+msgid "Content"
+msgstr "Obsah"
+
+#: models.py:198
+msgid "HTML content"
+msgstr "HTML Obsah"
+
+#: models.py:200
+msgid "Render template in alternative language"
+msgstr "Renderovat šablonu v alternatívním jazyce"
+
+#: models.py:208
+#, fuzzy
+msgid "Email Template"
+msgstr "Šablona Emailu"
+
+#: models.py:209
+msgid "Email Templates"
+msgstr "Šablony Emailu"
+
+#: models.py:236
+msgid "The original filename"
+msgstr "Originální název souboru"
