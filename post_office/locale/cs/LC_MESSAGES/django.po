@@ -104,7 +104,7 @@ msgstr "Status"
 
 #: post_office/models.py:58
 msgid "Priority"
-msgstr "Priority"
+msgstr "Priorita"
 
 #: post_office/models.py:63
 msgid "The scheduled sending time"
